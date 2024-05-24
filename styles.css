@@ -334,11 +334,13 @@ section.trust.bg-white.text-center.trust-section {
 
 }
 .h3.mx-3.counter-text {
+ 
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
-    color: #0062cc;
-    font-size: 79px;
+    color: #0062cc !important;
+    font-size: 79px !important;
 }
+
 h1.display-4.font-weight-bold.title-footer-cta {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900 !important;
@@ -356,7 +358,7 @@ p.lead.text-muted.mb-4.description-footer-cta {
 body {
     overflow-x: hidden; /* Hide horizontal scrollbar */
     }
-    
+
 h1.display-4.font-weight-bold {
     text-align: left;
     margin-left: -75px;
